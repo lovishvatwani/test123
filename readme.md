@@ -15,6 +15,8 @@ build using : mvn clean install
 
 run using : mvn spring-boot:run
 
+default port is 8080
+
 JS and CSS used for HTML frontend 
 with 1 functionality exposed : upload single file
 
